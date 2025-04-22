@@ -1,0 +1,230 @@
+[
+  {
+    "name": "Asgarheim Lv1",
+    "uniqueTo": "Asgarheim",
+    "cost": 1,
+    "isWonder": true,
+    "uniques": [
+	  "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+	  "Unavailable <in cities with a [Asgarheim Lv2]> <hidden from users>",
+	  "Unavailable <in cities with a [True Asgarheim]> <hidden from users>",
+	  "Unbuildable <hidden from users>",
+      "Destroyed when the city is captured",
+      "Can only be built [in capital]",
+      "When defeating a [All] unit, earn [1000] Gold and recruit it",
+      "[5] Movement",
+      "[+1000]% Strength <vs [All] units>",
+      "[+5] Range",
+      "[3] additional attacks per turn",
+      "Defense bonus when embarked <for [All] units>"
+    ]
+  },
+  {
+    "name": "Asgarheim Lv2",
+    "uniqueTo": "Asgarheim",
+    "cost": 1,
+    "isWonder": true,
+    "uniques": [
+	  "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+	  "Unavailable <in cities with a [Asgarheim Lv1]> <hidden from users>",
+	  "Unavailable <in cities with a [True Asgarheim]> <hidden from users>",
+	  "Unbuildable <hidden from users>",
+      "Destroyed when the city is captured",
+      "Can only be built [in capital]",
+      "When defeating a [All] unit, earn [1000] Gold and recruit it",
+      "[5] Movement",
+      "[+1000]% Strength <vs [All] units>",
+      "[+5] Range",
+      "[3] additional attacks per turn",
+      "Defense bonus when embarked <for [All] units>"
+    ]
+  },
+  {
+    "name": "True Asgarheim",
+    "uniqueTo": "Asgarheim",
+    "cost": 1,
+    "isWonder": true,
+    "uniques": [
+	  "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+	  "Unavailable <in cities with a [Asgarheim Lv1]> <hidden from users>",
+	  "Unavailable <in cities with a [Asgarheim Lv2]> <hidden from users>",
+	  "Unbuildable <hidden from users>",
+      "Destroyed when the city is captured",
+      "Can only be built [in capital]",
+      "When defeating a [All] unit, earn [1000] Gold and recruit it",
+      "All newly-trained [All] units [in all cities] receive the [Cheat 2] promotion",
+      "[5] Movement",
+      "[+1000]% Strength <vs [All] units>",
+      "[+5] Range",
+      "[3] additional attacks per turn",
+      "Defense bonus when embarked <for [All] units>"
+    ]
+  },
+  {
+    "name": "Asgarheim Military Cheat",
+    "uniqueTo": "Asgarheim",
+    "cost": 1,
+    "isWonder": true,
+    "uniques": [
+      "[1] additional attacks per turn",
+      "Destroyed when the city is captured",
+      "Can only be built [in capital]",
+      "Units fight as though they were at full strength even when damaged",
+      "Enables [All] units to enter ocean tiles",
+      "[1] Movement point cost to disembark",
+      "[1] Movement point cost to embark",
+      "Military Units gifted from City-States start with [200000] XP",
+      "New [All] units start with [200000] Experience [in all cities]",
+      "No movement cost to pillage",
+      "All newly-trained [All] units [in all cities] receive the [Cheat 1] promotion"
+	  "Destroyed when the city is captured",
+      "Can only be built [in capital]",
+      "When defeating a [All] unit, earn [1000] Gold and recruit it",
+      "All newly-trained [All] units [in all cities] receive the [Cheat 2] promotion",
+      "[5] Movement",
+      "[+1000]% Strength <vs [All] units>",
+      "[+5] Range",
+      "[3] additional attacks per turn",
+      "Defense bonus when embarked <for [All] units>"
+    ]
+  },
+  {
+    "name": "Asgarheim Gold Cheat",
+    "uniqueTo": "Asgarheim",
+    "cost": 1,
+    "isWonder": true,
+    "uniques": [
+      "Destroyed when the city is captured",
+      "Can only be built [in capital]",
+      "[+1 Gold] per [1] population [in all cities]",
+      "[+1000000]% [Gold] [in all cities]",
+      "No Maintenance costs for improvements in [All] tiles",
+      "[-1000]% maintenance costs <for [All] units>",
+      "[-1000]% maintenance on road & railroads",
+      "[-1000]% maintenance cost for buildings [in all cities]",
+      "[-1000]% maintenance costs",
+      "[Gold] cost of purchasing [All] units [-1000]%",
+      "[Gold] cost of purchasing [All] buildings [-1000]%",
+      "May buy [All] buildings for [0] [Culture] [in all cities]",
+      "May buy [All] units for [0] [Culture] [in all cities]"
+    ]
+  },
+  {
+    "name": "Asgarheim City-States Cheat",
+    "uniqueTo": "Asgarheim",
+    "cost": 1,
+    "isWonder": true,
+    "uniques": [
+      "Destroyed when the city is captured",
+      "Can only be built [in capital]",
+      "Can spend Gold to annex or puppet a City-State that has been your ally for [1] turns.",
+      "City-State territory always counts as friendly territory",
+      "[1000]% resources gifted by City-States",
+      "[-1000]% City-State Influence degradation",
+      "Resting point for Influence with City-States is increased by [1000]",
+      "Influence of all other civilizations with all city-states degrades [1000]% faster",
+      "Gifts of Gold to City-States generate [1000]% more Influence"
+    ]
+  },
+  {
+    "name": "Asgarheim Culture Cheat",
+    "uniqueTo": "Asgarheim",
+    "cost": 1,
+    "isWonder": true,
+    "uniques": [
+      "Destroyed when the city is captured",
+      "Can only be built [in capital]",
+      "[+1 Culture] per [1] population [in all cities]",
+      "[+1000000]% [Culture] [in all cities]",
+      "[+1000]% Golden Age length",
+      "[-1000]% Culture cost of adopting new Policies"
+    ]
+  },
+  {
+    "name": "Asgarheim Faith Cheat",
+    "uniqueTo": "Asgarheim",
+    "cost": 1,
+    "isWonder": true,
+    "uniques": [
+      "Destroyed when the city is captured",
+      "Can only be built [in capital]",
+      "[+1 Faith] per [1] population [in all cities]",
+      "[+1000000]% [Faith] [in all cities]",
+      "May not generate great prophet equivalents naturally",
+      "May choose [2] additional belief(s) of any type when [founding] a religion",
+      "May choose [2] additional belief(s) of any type when [enhancing] a religion"
+    ]
+  },
+  {
+    "name": "Asgarheim Happiness Cheat",
+    "uniqueTo": "Asgarheim",
+    "cost": 1,
+    "isWonder": true,
+    "uniques": [
+      "Destroyed when the city is captured",
+      "Can only be built [in capital]",
+      "[+1 Happiness] per [1] population [in all cities]",
+      "[+1000000]% [Happiness] [in all cities]",
+      "[10] Happiness from each type of luxury resource",
+      "[-1000]% Unhappiness from [Population] [in all cities]"
+    ]
+  },
+  {
+    "name": "Asgarheim Food Cheat",
+    "uniqueTo": "Asgarheim",
+    "cost": 1,
+    "isWonder": true,
+    "uniques": [
+      "Destroyed when the city is captured",
+      "Can only be built [in capital]",
+      "[+1 Food] per [1] population [in all cities]",
+      "[+1000000]% [Food] [in all cities]",
+      "[+1000]% growth [in all cities]"
+    ]
+  },
+  {
+    "name": "Asgarheim Science Cheat",
+    "uniqueTo": "Asgarheim",
+    "cost": 1,
+    "isWonder": true,
+    "uniques": [
+      "Destroyed when the city is captured",
+      "Can only be built [in capital]",
+      "[+1 Science] per [1] population [in all cities]",
+      "[+1000000]% [Science] [in all cities]"
+    ]
+  },
+  {
+    "name": "Asgarheim Production Cheat",
+    "uniqueTo": "Asgarheim",
+    "cost": 1,
+    "isWonder": true,
+    "uniques": [
+      "Destroyed when the city is captured",
+      "Can only be built [in capital]",
+      "[+1 Production] per [1] population [in all cities]",
+      "[+1000000]% [Production] [in all cities]",
+      "Quantity of strategic resources produced by the empire +[200000]%",
+      "[-1000]% tile improvement construction time"
+    ]
+  },
+  {
+    "name": "Hax For Everyone!",
+    "isNationalWonder": true,
+    "cost": 1,
+    "uniques": [
+      "Enables Open Borders agreements",
+      "Enables Research agreements",
+      "Enables Defensive Pacts",
+      "Destroyed when the city is captured",
+      "Can only be built [in capital]",
+      "\"Borrows\" city names from other civilizations in the game",
+      "[+1 Gold, +1 Production, +1 Science, +1 Food, +1 Culture, +1 Faith, +1 Happiness] per [1] population [in all cities]",
+      "Enables conversion of city production to [Gold]",
+      "May buy [All] units with [Culture] for [3] times their normal Production cost",
+      "May buy [All] units with [Faith] for [3] times their normal Production cost",
+      "May buy [All] buildings with [Culture] for [3] times their normal Production cost",
+      "May buy [All] buildings with [Faith] for [3] times their normal Production cost"
+    ]
+  }
+]
