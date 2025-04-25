@@ -1,10 +1,9 @@
 [
   {
-    "name": "Asgarheim Twilight of the Gods",
+    "name": "Twilight of the Gods",
     "uniqueTo": "Asgarheim",
-    "cost": 1,
-		"cityStrength": 150,
-		"cityHealth": 150,
+	"cityStrength": 150,
+	"cityHealth": 150,
     "isNationalWonder": true,
     "uniques": [
 	  "[+50]% spy effectiveness [in all cities]"
@@ -14,7 +13,7 @@
  	  "[+50]% Strength <while the empire is happy>",
  	  "[+50]% resources gifted by City-States",
  	  "[-50]% City-State Influence degradation"
- 	  "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+ 	  "Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
  	  "Can only be built <in [Capital] cities>",
  	  "City-State territory always counts as friendly territory",
 	  "Connects trade routes over water",
@@ -30,17 +29,16 @@
 	  "Moves to new capital when capital changes",
  	  "No movement cost to pillage",
  	  "Resting point for Influence with City-States is increased by [5]",
- 	  "Unavailable <in cities with a [Asgarheim Glory of the Aesir]> <hidden from users>",
+ 	  "Unavailable <in cities with a [Glory of the Aesir]> <hidden from users>",
  	  "Unavailable <in cities with a [True Asgarheim]> <hidden from users>",
  	  "Unbuildable <hidden from users>",
  	  "When defeating a [All] unit, earn [50] Gold and recruit it" ]
   },
   {
-    "name": "Asgarheim Glory of the Aesir",
+    "name": "Glory of the Aesir",
     "uniqueTo": "Asgarheim",
-    "cost": 1,
-		"cityStrength": 500,
-		"cityHealth": 500,
+	"cityStrength": 300,
+	"cityHealth": 300,
     "isNationalWonder": true,
     "uniques": [
 	  "[+100]% spy effectiveness [in all cities]"
@@ -52,7 +50,7 @@
  	  "[-100]% City-State Influence degradation"
  	  "[1] Movement point cost to disembark",
  	  "[1] Movement point cost to embark",
- 	  "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+ 	  "Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
  	  "Can only be built <in [Capital] cities>",
  	  "Can spend Gold to annex or puppet a City-State that has been your ally for [3] turns.",
 	  "Cities are razed [5] times as fast",
@@ -78,7 +76,7 @@
  	  "Remove extra unhappiness from annexed cities",
  	  "Resting point for Influence with City-States is increased by [10]",
  	  "Roads connect tiles across rivers",
- 	  "Unavailable <in cities with a [Asgarheim Twilight of the Gods]> <hidden from users>",
+ 	  "Unavailable <in cities with a [Twilight of the Gods]> <hidden from users>",
  	  "Unavailable <in cities with a [True Asgarheim]> <hidden from users>",
  	  "Unbuildable <hidden from users>",
  	  "When defeating a [All] unit, earn [100] Gold and recruit it" ]
@@ -86,9 +84,8 @@
   {
     "name": "True Asgarheim",
     "uniqueTo": "Asgarheim",
-    "cost": 1,
-		"cityStrength": 1000,
-		"cityHealth": 1000,
+	"cityStrength": 1000,
+	"cityHealth": 1000,
     "isNationalWonder": true,
     "uniques": [
 	  "[+1000]% spy effectiveness [in all cities]"
@@ -101,7 +98,7 @@
  	  "[0] Movement point cost to disembark",
  	  "[0] Movement point cost to embark",
 	  "All newly-trained [All] units [in all cities] receive the [Sons of the Aesir] promotion",
- 	  "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+ 	  "Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
  	  "Can only be built <in [Capital] cities>",
  	  "Can spend Gold to annex or puppet a City-State that has been your ally for [1] turns.",
 	  "Cities are razed [100] times as fast",
@@ -119,8 +116,8 @@
 	  "Enemy [All] units must spend [5] extra movement points when inside your territory",
  	  "Gifts of Gold to City-States generate [+1000]% more Influence",
  	  "Influence of all other civilizations with all city-states degrades [1000]% faster",
- 	  "May buy [All] buildings for [0] [Gold] [in all cities]",
- 	  "May buy [All] units for [0] [Gold] [in all cities]",
+ 	  "May buy [All] buildings for [0] [Faith] [in all cities]",
+ 	  "May buy [All] units for [0] [Faith] [in all cities]",
  	  "Military Units gifted from City-States start with [200000] XP",
 	  "Moves to new capital when capital changes",
  	  "New [All] units start with [200000] Experience [in all cities]",
@@ -129,64 +126,61 @@
  	  "Remove extra unhappiness from annexed cities",
  	  "Resting point for Influence with City-States is increased by [1000]",
  	  "Roads connect tiles across rivers",
- 	  "Unavailable <in cities with a [Asgarheim Glory of the Aesir]> <hidden from users>",
- 	  "Unavailable <in cities with a [Asgarheim Twilight of the Gods]> <hidden from users>",
+ 	  "Unavailable <in cities with a [Glory of the Aesir]> <hidden from users>",
+ 	  "Unavailable <in cities with a [Twilight of the Gods]> <hidden from users>",
  	  "Unbuildable <hidden from users>",
  	  "When defeating a [All] unit, earn [1000] Gold and recruit it" ]
   },
   {
-    "name": "1000 Resources",
+    "name": "100 Resources",
     "uniqueTo": "Asgarheim",
-    "cost": 1,
     "uniques": [
-      "Destroyed when the city is captured",
-      "Provides [1000] [Aluminum]",
-      "Provides [1000] [Citrus]",
-      "Provides [1000] [Coal]",
-      "Provides [1000] [Copper]",
-      "Provides [1000] [Cotton]",
-      "Provides [1000] [Crab]",
-      "Provides [1000] [Dyes]",
-      "Provides [1000] [Furs]",
-      "Provides [1000] [Gems]",
-      "Provides [1000] [Gold Ore]",
-      "Provides [1000] [Horses]",
-      "Provides [1000] [Incense]",
-      "Provides [1000] [Iron]",
-      "Provides [1000] [Jewelry]",
-      "Provides [1000] [Marble]",
-      "Provides [1000] [Oil]",
-      "Provides [1000] [Pearls]",
-      "Provides [1000] [Porcelain]",
-      "Provides [1000] [Salt]",
-      "Provides [1000] [Silk]",
-      "Provides [1000] [Silver]",
-      "Provides [1000] [Spices]",
-      "Provides [1000] [Sugar]",
-      "Provides [1000] [Truffles]",
-      "Provides [1000] [Uranium]",
-      "Provides [1000] [Whales]",
-      "Provides [1000] [Wine]",
-	  "Remove [1000 Resources] [in this city] <hidden from users>"
-    ]
+	  "Only available <if [True Asgarheim] is constructed>",
+      "Provides [100] [Aluminum]",
+      "Provides [100] [Citrus]",
+      "Provides [100] [Coal]",
+      "Provides [100] [Copper]",
+      "Provides [100] [Cotton]",
+      "Provides [100] [Crab]",
+      "Provides [100] [Dyes]",
+      "Provides [100] [Furs]",
+      "Provides [100] [Gems]",
+      "Provides [100] [Gold Ore]",
+      "Provides [100] [Horses]",
+      "Provides [100] [Incense]",
+      "Provides [100] [Iron]",
+      "Provides [100] [Jewelry]",
+      "Provides [100] [Marble]",
+      "Provides [100] [Oil]",
+      "Provides [100] [Pearls]",
+      "Provides [100] [Porcelain]",
+      "Provides [100] [Salt]",
+      "Provides [100] [Silk]",
+      "Provides [100] [Silver]",
+      "Provides [100] [Spices]",
+      "Provides [100] [Sugar]",
+      "Provides [100] [Truffles]",
+      "Provides [100] [Uranium]",
+      "Provides [100] [Whales]",
+      "Provides [100] [Wine]",
+ 	  "Unbuildable <hidden from users>" ]
   },
   {
     "name": "True Culture",
     "uniqueTo": "Asgarheim",
-    "cost": 1,
     "isWonder": true,
     "uniques": [
       "[+10000]% [Culture] [in all cities]",
       "[-10000]% Culture cost of adopting new Policies",
       "[+1000]% Golden Age length",
  	  "Can only be built <in [Capital] cities>",
-      "Destroyed when the city is captured"
-    ]
+      "Destroyed when the city is captured",
+	  "Only available <if [True Asgarheim] is constructed>",
+ 	  "Unbuildable <hidden from users>" ]
   },
   {
     "name": "True Faith",
     "uniqueTo": "Asgarheim",
-    "cost": 1,
 	"faith": 9999,
     "isWonder": true,
     "uniques": [
@@ -196,25 +190,26 @@
       "Destroyed when the city is captured",
       "May choose [2] additional belief(s) of any type when [founding] a religion",
       "May choose [2] additional belief(s) of any type when [enhancing] a religion",
-      "May not generate great prophet equivalents naturally" ]
+      "May not generate great prophet equivalents naturally",
+	  "Only available <if [True Asgarheim] is constructed>",
+ 	  "Unbuildable <hidden from users>" ]
   },
   {
     "name": "True Food",
     "uniqueTo": "Asgarheim",
-    "cost": 1,
 	"food": 9999,
     "isWonder": true,
     "uniques": [
       "[+10000]% [Food] [in all cities]",
       "[+10000]% growth [in all cities]",
  	  "Can only be built <in [Capital] cities>",
-      "Destroyed when the city is captured"
-    ]
+      "Destroyed when the city is captured",
+	  "Only available <if [True Asgarheim] is constructed>",
+ 	  "Unbuildable <hidden from users>" ]
   },
   {
     "name": "True Gold",
     "uniqueTo": "Asgarheim",
-    "cost": 1,
 	"gold": 9999,
     "isWonder": true,
     "uniques": [
@@ -222,23 +217,25 @@
       "[-10000]% maintenance costs",
  	  "Can only be built <in [Capital] cities>",
       "Destroyed when the city is captured",
-      "No Maintenance costs for improvements in [All] tiles" ]
+      "No Maintenance costs for improvements in [All] tiles",
+	  "Only available <if [True Asgarheim] is constructed>",
+ 	  "Unbuildable <hidden from users>" ]
   },
   {
     "name": "True Happiness",
     "uniqueTo": "Asgarheim",
-    "cost": 1,
     "isWonder": true,
     "uniques": [
       "[+10000]% [Happiness] [in all cities]",
       "[-10000]% Unhappiness from [Population] [in all cities]",
  	  "Can only be built <in [Capital] cities>",
-      "Destroyed when the city is captured" ]
+      "Destroyed when the city is captured",
+	  "Only available <if [True Asgarheim] is constructed>",
+ 	  "Unbuildable <hidden from users>" ]
   },
   {
     "name": "True Production",
     "uniqueTo": "Asgarheim",
-    "cost": 1,
 	"production": 9999,
     "isWonder": true,
     "uniques": [
@@ -246,17 +243,20 @@
       "[-10000]% construction time for [All] improvements",
  	  "Can only be built <in [Capital] cities>",
       "Destroyed when the city is captured",
-      "Quantity of strategic resources produced by the empire +[10000]%" ]
+	  "Only available <if [True Asgarheim] is constructed>",
+      "Quantity of strategic resources produced by the empire +[10000]%",
+ 	  "Unbuildable <hidden from users>" ]
   },
   {
     "name": "True Science",
     "uniqueTo": "Asgarheim",
-    "cost": 1,
 	"science": 9999,
     "isWonder": true,
     "uniques": [
       "[+10000]% [Science] [in all cities]",
  	  "Can only be built <in [Capital] cities>",
-      "Destroyed when the city is captured" ]
+      "Destroyed when the city is captured",
+	  "Only available <if [True Asgarheim] is constructed>",
+ 	  "Unbuildable <hidden from users>" ]
   }
 ]

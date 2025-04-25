@@ -4,9 +4,9 @@
 	"uniqueTo": "Asgarheim",
   	"uniques": [
 	  "[100]% chance to intercept air attacks",
-	  "[10] Range",
-	  "[10] Sight",
-	  "[4] additional attacks per turn",
+	  "[50] Range",
+	  "[50] Sight",
+	  "[5] additional attacks per turn",
 	  "All tiles cost 1 movement",
 	  "Blast radius [1]",
 	  "Can enter ice tiles",
