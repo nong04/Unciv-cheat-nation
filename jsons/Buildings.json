@@ -58,7 +58,7 @@
 	"food": 1000,
 	"gold": 1000,
 	"production": 10000,
-	"science": 1000,
+	"science": 10000,
     "isNationalWonder": true,
     "uniques": [
 	  "[+1000]% spy effectiveness [in all cities]"
