@@ -1,6 +1,6 @@
 [
   {
-	"name": "Asgarheim's Dwarf",
+	"name": "Forger of Realms",
 	"uniqueTo": "Asgarheim",
 	"unitType": "Civilian",
 	"movement": 10,
@@ -12,6 +12,7 @@
 	  "Can build [All] improvements on tiles",
 	  "Can instantly construct a [All] improvement",
 	  "Can move immediately once bought",
+	  "Founds a new city",
 	  "May create improvements on water resources",
 	  "Never appears as a Barbarian unit",
 	  "Uncapturable" ]
